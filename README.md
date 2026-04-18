@@ -1,1 +1,1 @@
-# AGH-Project-model-CreditMetrics
+# AGH Project model CreditMetrics
